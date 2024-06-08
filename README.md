@@ -39,3 +39,4 @@ class name in the manifest Main-Class element.
 
 Output Snapshots:
 
+![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/1cfba19f-9560-4cbf-aa7a-4122be2b101a)
