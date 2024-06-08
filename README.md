@@ -40,28 +40,31 @@ class name in the manifest Main-Class element.
 Output Snapshots:
 Project Flow: ​
 1) Log in:​
+
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/1cfba19f-9560-4cbf-aa7a-4122be2b101a)
-2) Forgot  password​
+
+
+3) Forgot  password​
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/14d076dc-987e-4b5b-871b-ff206c76cf93)
-3) Create new account​
+4) Create new account​
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/8aae441a-6867-4ff5-af00-cbf162ee3047)
-4) Welcome page​
+5) Welcome page​
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/7362bb85-b40e-451f-922d-c1954f8ce8b1)
-5) Menu page​
+6) Menu page​
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/fb17a6d5-309e-46e7-8b98-a6813fd69b74)
-6) Student​
+7) Student​
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/85dfba84-3bd2-418d-983d-bfb2207b2db1)
-7) worker​
+8) worker​
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/d7bc827b-c170-4346-b793-32eaa43b32a3)
-8) sallary​
+9) sallary​
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/c3ec4fcc-903d-424a-8cc6-e1ca3bb49693)
-9) products​
+10) products​
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/e54dfea4-106e-44b0-8e3f-2ccd1759a9ef)
-10) Current stock​
+11) Current stock​
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/d85e5fa5-a03f-4db3-a8d5-71d32e83b057)
-11) vendor​
+12) vendor​
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/360b1bb2-752c-451f-b0e4-863ee6073125)
-12) order​
+13) order​
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/ebdde68b-a6a1-43cc-b3a9-c4d7460be4be)
-13) About​
+14) About​
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/39b8db2e-98dd-4683-b8c6-195e51ef503f)
