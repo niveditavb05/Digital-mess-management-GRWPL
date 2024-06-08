@@ -45,26 +45,74 @@ Project Flow: ​
 
 
 3) Forgot  password​
+
+
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/14d076dc-987e-4b5b-871b-ff206c76cf93)
-4) Create new account​
+
+
+5) Create new account​
+
+   
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/8aae441a-6867-4ff5-af00-cbf162ee3047)
-5) Welcome page​
+
+
+7) Welcome page​
+
+
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/7362bb85-b40e-451f-922d-c1954f8ce8b1)
-6) Menu page​
+
+
+9) Menu page​
+
+    
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/fb17a6d5-309e-46e7-8b98-a6813fd69b74)
-7) Student​
+
+
+11) Student​
+
+    
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/85dfba84-3bd2-418d-983d-bfb2207b2db1)
-8) worker​
+
+
+13) worker​
+
+    
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/d7bc827b-c170-4346-b793-32eaa43b32a3)
-9) sallary​
+
+
+15) sallary​
+
+    
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/c3ec4fcc-903d-424a-8cc6-e1ca3bb49693)
-10) products​
+
+
+17) products​
+
+    
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/e54dfea4-106e-44b0-8e3f-2ccd1759a9ef)
-11) Current stock​
+
+
+19) Current stock​
+
+    
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/d85e5fa5-a03f-4db3-a8d5-71d32e83b057)
-12) vendor​
+
+
+21) vendor​
+
+    
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/360b1bb2-752c-451f-b0e4-863ee6073125)
-13) order​
+
+
+23) order​
+
+    
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/ebdde68b-a6a1-43cc-b3a9-c4d7460be4be)
-14) About​
+
+
+25) About​
+
+    
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/39b8db2e-98dd-4683-b8c6-195e51ef503f)
+
+
