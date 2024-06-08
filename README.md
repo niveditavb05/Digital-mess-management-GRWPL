@@ -115,4 +115,7 @@ Project Flow: ​
     
 ![image](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/39b8db2e-98dd-4683-b8c6-195e51ef503f)
 
+Out work on Teamviewer 
 
+
+![ss](https://github.com/niveditavb05/Digital-mess-management-GRWPL/assets/68593325/7f8d1110-bc23-46c2-81ba-fcc41d27482c)
